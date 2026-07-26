@@ -3,3 +3,6 @@ dist
 server/journal.db
 server/journal.db-*
 .env
+
+# Local Netlify folder
+.netlify
